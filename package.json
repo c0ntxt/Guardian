@@ -1,0 +1,19 @@
+{
+  "name": "guardian",
+  "version": "1.0.0",
+  "description": "Multipurpose Discord Bot focused on Minecraft",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c0ntxt/Guardian.git"
+  },
+  "author": "c0ntxt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/c0ntxt/Guardian/issues"
+  },
+  "homepage": "https://github.com/c0ntxt/Guardian#readme"
+}
